@@ -7,6 +7,7 @@ import React from 'react';
 
 function App() {
     return (
+        //need to add switch
         <Router>
             <div>
                 <Nav />
